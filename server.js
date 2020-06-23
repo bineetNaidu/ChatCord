@@ -17,7 +17,7 @@ const io = socketio(server);
 
 app.use(express.static(path.join(__dirname, "public")));
 
-const botName = "admin";
+const botName = "@admin";
 
 // run when user connnects
 io.on("connection", (socket) => {
