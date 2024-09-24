@@ -9,7 +9,7 @@
     "author": "Bineet Naidu",
     "license": "MIT",
     "dependencies": {
-        "express": "^4.19.2",
+        "express": "^4.21.0",
         "moment": "^2.29.4",
         "socket.io": "^2.5.0"
     }
